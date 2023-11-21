@@ -7,3 +7,4 @@
 - **HTML**
 - **CSS**
 - **Bootstrap 4 (grid)**
+- **Адаптив**
